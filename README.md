@@ -97,6 +97,5 @@ We welcome contributions to improve Personal BabyBot v1. Here’s how you can co
 - **Expand Language Support**: Add support for more languages to cater to a global audience.
 - **Additional Features**: Integrate more functionalities such as voice input and output, and personalized user experiences.
 
----
-
-Feel free to modify any section as needed or add additional details specific to your project's needs. This README should give users and contributors a clear understanding of Personal BabyBot v1, how to set it up, use it, and contribute to its development.
+For a detailed explanation of the project, including step-by-step instructions and technical details, please read the full article here:
+https://medium.com/@alfian.ali/develop-personal-babybot-v1-an-interactive-chatbot-including-google-search-to-enhance-daily-c26aa7ce8ee5
