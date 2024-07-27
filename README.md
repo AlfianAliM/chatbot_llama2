@@ -1,7 +1,7 @@
-# Personal BabyBot v1
+# Personal BabyBotv1
 
 ## Overview
-**Personal BabyBot v1** is an interactive chatbot built using Streamlit, designed to provide quick, accurate, and relevant answers to user queries. By integrating Google Search and leveraging the LLaMA2 AI model via the Replicate API, this bot can fetch up-to-date information and generate natural responses. It supports communication in both English and Indonesian, making it accessible to a wider audience.
+**Personal BabyBotv1** is an interactive chatbot built using Streamlit, designed to provide quick, accurate, and relevant answers to user queries. By integrating Google Search and leveraging the LLaMA2 AI model via the Replicate API, this bot can fetch up-to-date information and generate natural responses. It supports communication in both English and Indonesian, making it accessible to a wider audience.
 
 ## Key Features
 - **User-Friendly Interface**: Built with Streamlit to ensure a clean and intuitive user experience.
